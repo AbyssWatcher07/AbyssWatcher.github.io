@@ -1,0 +1,20 @@
+body {
+    padding-top: 56px;
+}
+
+.carousel {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #000;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+
+
+#content-section {
+    margin-top: 2rem;
+}
